@@ -1,1 +1,29 @@
-Act as an experienced Classroom Allocation Officer and allocate classrooms to 4 different classes. Prepare a clear and well-organized classroom allocation timetable, ensuring that no classroom is assigned to more than one class at the same time. Avoid room clashes and double bookings. Consider the availability and capacity of each classroom while assigning rooms. Ensure that all 4 classes have suitable classrooms throughout the schedule. Present the final allocation in a professional table format with columns for Class, Assigned Classroom, Day, and Session. Double-check the entire allocation to ensure there are no overlapping room assignments or scheduling conflicts.
+Act as an experienced Classroom Allocation Officer. Allocate classrooms for the following 4 classes. Specify the exact class names, classroom names, and room numbers. Ensure that no two classes are assigned to the same room at the same time.
+
+Use the following sample details:
+
+Classes:
+
+1. B.Sc Computer Science – Year 1
+2. B.Sc Mathematics – Year 1
+3. B.Com – Year 1
+4. BCA – Year 1
+
+Available Classrooms:
+
+1. Smart Classroom – Room No. 101
+2. Computer Lab – Room No. 102
+3. Seminar Hall – Room No. 103
+4. General Classroom – Room No. 104
+
+Prepare a detailed classroom allocation table with these columns:
+
+- Class Name
+- Year
+- Room Name
+- Room Number
+- Building/Floor
+- Time Slot
+- Day
+
+Assign one separate room to each class. Make sure there are no double-booking issues or overlapping room allocations. Clearly mention all room names and numbers. Present the final allocation in a neat, professional table format.
