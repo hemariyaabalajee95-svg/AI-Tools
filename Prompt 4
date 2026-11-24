@@ -1,39 +1,43 @@
 Act as an expert Spreadsheet Specialist and prepare a complete weekly college timetable in a professional spreadsheet-style format.
 
-Use the following details:
+Include the following details:
 
-Class: B.Sc Computer Science – First Year
+Class: B.Tech Information Technology– First Year
 
 Faculty and Subjects:
 
-1. English – Mrs. Priya
-2. Tamil – Mr. Kumar
-3. Mathematics – Mrs. Divya
-4. Programming in C – Mr. Arun
-5. Computer Fundamentals – Mrs. Meena
-6. Environmental Science – Mr. Raj
+1. English – Mr. Aravind
+2. Tamil – Mrs. Priya
+3. Mathematics – Mrs.Dhanalakshmi
+4. Programming in C – Mrs. Vijayasabareswari
+5. Fundamentals of IT– Mrs.Poongulaly
+6. AI Tools – Mrs. Sathya
+7.Physics-Mr.Chandrasekar
+8.Chemistry-Mr.Thirumurugan
+
 
 Working Days: Monday to Saturday
 
 Period Timings:
 
-- Period 1: 9:00 AM – 10:00 AM
-- Period 2: 10:00 AM – 11:00 AM
-- Period 3: 11:15 AM – 12:15 PM
-- Period 4: 12:15 PM – 1:15 PM
-- Lunch Break: 1:15 PM – 2:00 PM
-- Period 5: 2:00 PM – 3:00 PM
-- Period 6: 3:00 PM – 4:00 PM
+Period 1: 9:00 AM – 9:50 AM
+Period 2: 9:50 AM – 10:35AM
+Period 3: 10:50 AM – 11:45AM
+Period 4: 11:45 AM – 12:20PM
+Lunch Break: 12:20 PM – 1:10PM
+Period 5: 1:10PM – 1:50PM
+Period 6: 1:50 PM – 2:45PM
+Period 7: 3:00 PM - 3:45PM
+Period 8: 3:45 PM - 4:30 PM
 
 Instructions:
 
 1. Arrange Monday to Saturday as rows.
-2. Arrange Period 1 to Period 6 as columns.
+2. Arrange Period 1 to Period 8 as columns.
 3. Mention both subject names and faculty names in every timetable cell.
-4. Include classroom numbers for each period.
-5. Distribute all subjects equally throughout the week.
-6. Avoid faculty and classroom scheduling clashes.
-7. Highlight breaks separately.
-8. Present the final timetable in a neat table with clear headings, borders, and proper alignment.
+4.Distribute all subjects equally throughout the week.
+5. Avoid faculty and subject alloting clashes.
+6. Highlight breaks separately.
+7. Present the final timetable in a neat table with clear headings, borders, and proper alignment.
 
-Ensure that all six subjects and their respective faculty names are included in the timetable.
+Ensure the alignment of eight subjects and their respective faculty names are included in the timetable.
