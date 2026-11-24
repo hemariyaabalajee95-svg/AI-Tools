@@ -1,20 +1,20 @@
 Act as an experienced Classroom Allocation Officer. Allocate classrooms for the following 4 classes. Specify the exact class names, classroom names, and room numbers. Ensure that no two classes are assigned to the same room at the same time.
 
-Use the following sample details:
+Include the following details:
 
 Classes:
 
-1. B.Sc Computer Science – Year 1
-2. B.Sc Mathematics – Year 1
-3. B.Com – Year 1
-4. BCA – Year 1
+1. B.Tech Information Technology– Year 1
+2. B.Tech AIDS – Year 1
+3. B.Tech AIML– Year 1
+4. B.Tech Cyber Security– Year 1
 
-Available Classrooms:
+Available Classrooms and Available seats:
 
-1. Smart Classroom – Room No. 101
-2. Computer Lab – Room No. 102
-3. Seminar Hall – Room No. 103
-4. General Classroom – Room No. 104
+1. Smart Classroom – Room No. 101 (30 seats) 
+2. Computer Lab – Room No. 102 ( 15 seats) 
+3. Seminar Hall – Room No. 103 (45 seats) 
+4. General Classroom – Room No. 104 ( 20 seats) 
 
 Prepare a detailed classroom allocation table with these columns:
 
