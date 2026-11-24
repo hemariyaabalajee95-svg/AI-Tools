@@ -1,1 +1,39 @@
-Act as an expert Spreadsheet Specialist and create a well-organized college timetable in a clear tabular format. Arrange the days of the week as rows and the class periods as columns. Fill in the appropriate subjects, faculty names, and classroom details for each period based on the provided information. Ensure the timetable is properly aligned, easy to read, and professionally formatted. Avoid overlapping periods, duplicate subject allocations, and scheduling conflicts. Use clear headings, consistent formatting, borders, and suitable column widths. Present the final timetable in a neat, structured spreadsheet-style table that can be easily copied into Excel.
+Act as an expert Spreadsheet Specialist and prepare a complete weekly college timetable in a professional spreadsheet-style format.
+
+Use the following details:
+
+Class: B.Sc Computer Science – First Year
+
+Faculty and Subjects:
+
+1. English – Mrs. Priya
+2. Tamil – Mr. Kumar
+3. Mathematics – Mrs. Divya
+4. Programming in C – Mr. Arun
+5. Computer Fundamentals – Mrs. Meena
+6. Environmental Science – Mr. Raj
+
+Working Days: Monday to Saturday
+
+Period Timings:
+
+- Period 1: 9:00 AM – 10:00 AM
+- Period 2: 10:00 AM – 11:00 AM
+- Period 3: 11:15 AM – 12:15 PM
+- Period 4: 12:15 PM – 1:15 PM
+- Lunch Break: 1:15 PM – 2:00 PM
+- Period 5: 2:00 PM – 3:00 PM
+- Period 6: 3:00 PM – 4:00 PM
+
+Instructions:
+
+1. Arrange Monday to Saturday as rows.
+2. Arrange Period 1 to Period 6 as columns.
+3. Mention both subject names and faculty names in every timetable cell.
+4. Include classroom numbers for each period.
+5. Distribute all subjects equally throughout the week.
+6. Avoid faculty and classroom scheduling clashes.
+7. Highlight breaks separately.
+8. Present the final timetable in a neat table with clear headings, borders, and proper alignment.
+
+Ensure that all six subjects and their respective faculty names are included in the timetable.
